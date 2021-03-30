@@ -1,0 +1,36 @@
+{
+    "cfg_int": 3,
+    "cfg_float": 3.14,
+    "cfg_list": [
+        0,
+        0,
+        0
+    ],
+    "cfg_str": "welcome!",
+    "ÖÐÎÄ": "ÄãºÃ",
+    "cfg_bool": true,
+    "cfg_dict": {
+        "k0": 6,
+        "k1": "hello, json.",
+        "k2": [
+            0,
+            1,
+            "three",
+            [
+                4.1,
+                4.4,
+                "4.8"
+            ],
+            5
+        ],
+        "k3": {
+            "subk0": 9,
+            "subk1": "hello, dictionary.",
+            "subk2": [
+                "Mon",
+                "Tue",
+                "Wed"
+            ]
+        }
+    }
+}
